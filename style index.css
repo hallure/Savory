@@ -1,0 +1,33 @@
+
+main-nav{
+    font-size: 0.9em;
+
+}
+
+li{
+    background-color: rgb(171, 109, 109);
+    border: 2px solid salmon;
+    text-align: center;
+   padding: 0%;
+    
+    
+
+}
+.nav :hover a{
+    color: antiquewhite;
+
+}
+a :hover{
+    background-color: antiquewhite;
+    
+}
+
+.{
+
+    margin-top: 200px;
+}
+
+
+
+
+
